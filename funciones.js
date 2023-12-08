@@ -5,3 +5,4 @@ function square(numero) {
     var numero = 5;
     var resultado = square(numero);
     console.log("el cuadrado de " + numero + " es "+ resultado);
+    
