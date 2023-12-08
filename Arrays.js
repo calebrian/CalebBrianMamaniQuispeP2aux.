@@ -1,6 +1,6 @@
 const Student = {
-    firstName: "Isaac Rodrigo",
-    lastName: "Zegarra Mamani",
+    firstName: "caleb brian",
+    lastName: "mamani quispe",
     age: 24,
     hobby: "wali"
 };
